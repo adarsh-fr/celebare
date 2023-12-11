@@ -1,2 +1,0 @@
-# celebare
-A text Editor
