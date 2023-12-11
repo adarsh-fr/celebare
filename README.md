@@ -1,4 +1,4 @@
-```markdown
+
 # Celebare - Flutter Text Editor App
 
 **Celebare** is a simple Flutter-based mobile application that serves as a text editor, allowing users to enter and edit text with options to customize font size, color, and includes undo and redo functionality.
@@ -53,5 +53,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Credits
 
-This app was created by Adarsh Rai - [Adarsh's GitHub Profile](https://github.com/adarsh-fr).
-```
+This app was created by Adarsh Rai - [Adarsh's GitHub Profile](https://github.com/adarsh-fr)
